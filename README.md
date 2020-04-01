@@ -13,6 +13,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### login user creds
 
 > lizerd@mailinator.com / user@123
+
 > deeend@mailinator.com / 123456
 
 preview url : [https://react-redux-auth-65156.web.app/](https://react-redux-auth-65156.web.app/)
